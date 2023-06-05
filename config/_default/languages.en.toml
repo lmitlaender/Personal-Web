@@ -14,11 +14,11 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Lutz Mitländer"
-  image = "img/far squared.jpg"
-  headline = "Computer science student hungry for knowledge"
-  bio = "Computer science student hungry for knowledge"
+  image = "img/me3.jpg"
+  headline = "Computer science student interested in AI, Hardware-Software-Interaction and more.."
+  bio = ""
   links = [
-    { email = "mailto:contact@mitlaender.dev" },
+    { email = "mailto:lutz@mitlaender.dev" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },

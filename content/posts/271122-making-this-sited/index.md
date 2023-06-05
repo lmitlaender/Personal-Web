@@ -54,6 +54,6 @@ It works! I don't know if the problem really was the missing DNSSEC, but as far 
 ## What to expect here?
 So now to end I want to tell you what you can expect here.
 
-I'll probably try to write about my learning experiences as part of my Computer Science Bachelor and some personal projects. Maybe some more private concerns, like my French learning efforts, here and there but I'll try to keep this mostly to some not too private, more "professional" things. 
+I'll probably not be blogging much, maybe here and there if I really think I have something that I want to share with the world but mostly this is my personal "me" space. This means anything related to me, mostly professional, maybe private can appear here!
 
 If you got here I'm happy you took the time to read all this, and I hope you got to know some new things or had an interesting read!

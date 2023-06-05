@@ -5,24 +5,35 @@
     <link>https://mitlaender.dev/</link>
     <description>Recent content on Portfolio &amp; Blog (by Lutz)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mitlaender.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Nov 2022 14:53:59 +0100</lastBuildDate><atom:link href="https://mitlaender.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://mitlaender.dev/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>How I &#39;created&#39; this site</title>
+      <link>https://mitlaender.dev/posts/271122-making-this-sited/</link>
+      <pubDate>Sun, 27 Nov 2022 14:53:59 +0100</pubDate>
       
-      <guid>https://mitlaender.dev/contact/</guid>
-      <description></description>
-      
+      <guid>https://mitlaender.dev/posts/271122-making-this-sited/</guid>
+      <description>How it started&gt;How it started # So as it currently stands I&amp;rsquo;m just going around, applying for internships here and there (fun little story how hard I&amp;rsquo;m making it for myself - France without french, we&amp;rsquo;ll see how that works out), and I thought it would be kind of good to finally have a better looking personal website, potentially including a blog (See?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mitlaender.dev/posts/271122-making-this-sited/featured.png" />
     </item>
     
     <item>
-      <title>About me</title>
+      <title></title>
       <link>https://mitlaender.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mitlaender.dev/about/</guid>
-      <description>Mein Name&gt;Mein Name </description>
+      <description>Who am I?&gt;Who am I? Hey there! I&amp;rsquo;m Lutz Mitländer, currently a computer science bachelor&amp;rsquo;s student, and unbelievably curious about all kinds of subjects. Whenever I see something interesting I just love to lose myself in it for hours on end, until my head is filled.</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mitlaender.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mitlaender.dev/contact/</guid>
+      <description>You can contact me under: contact@mitlaender.dev Or my LinkedIn as seen on the homepage.</description>
       
     </item>
     

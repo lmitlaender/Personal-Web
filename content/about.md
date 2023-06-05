@@ -35,8 +35,9 @@ And now here I am, studying computer science at the "Nuremberg Institute of Tech
 ### My Skills
 
 #### Programming Languages
- - C# (ASP.NET Core, WPF, My currently most used language)
- - Python (Soon including my universities ML Specialization)
+ - C# (ASP.NET Core, WPF)
+ - Python (NumPy, Pandas, NLTK, TensorFlow, etc.)
+ - Java
  - C/AL
  - SQL
  - Basics of HTML, CSS and JavaScript
