@@ -61,7 +61,7 @@ main() {
 
   # Build the site
   echo "Building the site..."
-  hugo build --gc --minify
+  hugo
 
 }
 
